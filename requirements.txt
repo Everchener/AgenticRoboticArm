@@ -21,5 +21,3 @@ tqdm
 # 讯飞语音识别WebSocket
 websocket-client
 
-# 树莓派GPIO控制 (仅支持树莓派)
-# RPi.GPIO
