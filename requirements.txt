@@ -1,0 +1,25 @@
+# Mycobot 语音控制智能体 - Python依赖
+
+# 机械臂控制 (仅支持树莓派)
+# pymycobot
+
+# 百度千帆大模型SDK
+qianfan
+
+# 视觉图像处理
+opencv-python
+numpy
+Pillow
+
+# OpenAI兼容API (用于零一万物Yi-Vision)
+openai
+
+# 语音录制
+pyaudio
+tqdm
+
+# 讯飞语音识别WebSocket
+websocket-client
+
+# 树莓派GPIO控制 (仅支持树莓派)
+# RPi.GPIO
